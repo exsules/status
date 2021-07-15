@@ -20,7 +20,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-commitMessage:
+commitMessages:
   commitAuthorName: "exsules-bot"
   commitAuthorEmail: "16393509+exsules-bot@users.noreply.github.com"
   
