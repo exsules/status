@@ -1,20 +1,20 @@
 [
   {
-    "name": "oauth2",
+    "name": "oauth2 [dev]",
     "url": "https://accounts.exsules.dev/o/oauth2/certs",
     "icon": "https://favicons.githubusercontent.com/accounts.exsules.dev",
-    "slug": "oauth2",
+    "slug": "oauth2-dev",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 443,
-    "timeDay": 449,
-    "timeWeek": 433,
-    "timeMonth": 443,
-    "timeYear": 443,
+    "time": 393,
+    "timeDay": 393,
+    "timeWeek": 393,
+    "timeMonth": 393,
+    "timeYear": 393,
     "dailyMinutesDown": {}
   }
 ]
