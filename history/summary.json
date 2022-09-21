@@ -5,14 +5,14 @@
     "icon": "https://favicons.githubusercontent.com/accounts.exsules.dev",
     "slug": "oauth2-dev",
     "status": "up",
-    "uptime": "88.46%",
+    "uptime": "88.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.51%",
+    "uptimeYear": "89.78%",
     "time": 632,
-    "timeDay": 766,
-    "timeWeek": 655,
+    "timeDay": 507,
+    "timeWeek": 624,
     "timeMonth": 581,
     "timeYear": 645,
     "dailyMinutesDown": {
@@ -82,8 +82,7 @@
       "2021-09-25": 1440,
       "2021-09-24": 1440,
       "2021-09-23": 1440,
-      "2021-09-22": 1440,
-      "2021-09-21": 1440
+      "2021-09-22": 1440
     }
   }
 ]
