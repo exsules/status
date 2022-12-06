@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/accounts.exsules.dev.ico",
     "slug": "oauth2-dev",
     "status": "up",
-    "uptime": "86.77%",
-    "uptimeDay": "95.35%",
+    "uptime": "86.79%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.29%",
     "uptimeMonth": "99.51%",
-    "uptimeYear": "92.98%",
-    "time": 665,
-    "timeDay": 766,
-    "timeWeek": 1234,
-    "timeMonth": 963,
+    "uptimeYear": "93.26%",
+    "time": 666,
+    "timeDay": 939,
+    "timeWeek": 1190,
+    "timeMonth": 972,
     "timeYear": 633,
     "dailyMinutesDown": {
       "2022-12-04": 67,
@@ -66,8 +66,7 @@
       "2021-12-25": 18,
       "2021-12-10": 16,
       "2021-12-09": 19,
-      "2021-12-07": 1194,
-      "2021-12-06": 1440
+      "2021-12-07": 1194
     }
   }
 ]
