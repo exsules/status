@@ -1,7 +1,7 @@
 url: https://accounts.exsules.dev/o/oauth2/certs
-status: up
-code: 200
-responseTime: 906
-lastUpdated: 2023-03-27T23:19:31.686Z
+status: down
+code: 502
+responseTime: 587
+lastUpdated: 2023-03-28T06:34:46.339Z
 startTime: Wed Jul 28 2021 19:49:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
