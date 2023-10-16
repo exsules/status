@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/accounts.exsules.dev.ico",
     "slug": "oauth2-dev",
     "status": "down",
-    "uptime": "83.20%",
+    "uptime": "83.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "76.25%",
-    "time": 957,
-    "timeDay": 112,
-    "timeWeek": 90,
+    "time": 956,
+    "timeDay": 101,
+    "timeWeek": 95,
     "timeMonth": 99,
-    "timeYear": 1083,
+    "timeYear": 1081,
     "dailyMinutesDown": {
-      "2023-10-15": 33,
+      "2023-10-16": 32,
+      "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
@@ -128,8 +129,7 @@
       "2022-10-21": 1440,
       "2022-10-20": 1440,
       "2022-10-19": 1440,
-      "2022-10-18": 287,
-      "2022-10-16": 955
+      "2022-10-18": 287
     }
   }
 ]
