@@ -4,7 +4,7 @@
     "url": "https://httpbin.exsules.dev/status/200",
     "icon": "https://icons.duckduckgo.com/ip3/httpbin.exsules.dev.ico",
     "slug": "httpbin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 554,
     "timeMonth": 554,
     "timeYear": 554,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-19": 0
+    }
   }
 ]
