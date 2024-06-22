@@ -4,18 +4,19 @@
     "url": "https://httpbin.exsules.dev/status/200",
     "icon": "https://icons.duckduckgo.com/ip3/httpbin.exsules.dev.ico",
     "slug": "httpbin",
-    "status": "up",
-    "uptime": "98.08%",
+    "status": "down",
+    "uptime": "98.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.95%",
-    "uptimeMonth": "98.08%",
-    "uptimeYear": "98.08%",
-    "time": 517,
-    "timeDay": 581,
-    "timeWeek": 505,
-    "timeMonth": 517,
-    "timeYear": 517,
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "98.30%",
+    "time": 531,
+    "timeDay": 637,
+    "timeWeek": 522,
+    "timeMonth": 531,
+    "timeYear": 531,
     "dailyMinutesDown": {
+      "2024-06-22": 0,
       "2024-06-19": 207
     }
   }
