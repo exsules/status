@@ -1,7 +1,7 @@
 url: https://httpbin.exsules.dev/status/200
 status: down
-code: 502
-responseTime: 6751
-lastUpdated: 2024-08-15T15:14:05.818Z
+code: 530
+responseTime: 66
+lastUpdated: 2024-08-15T23:16:48.906Z
 startTime: 2024-06-14T12:52:32.987Z
 generator: Upptime <https://github.com/upptime/upptime>
