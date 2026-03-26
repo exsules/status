@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/httpbin.exsules.dev.ico",
     "slug": "httpbin",
     "status": "down",
-    "uptime": "8.10%",
+    "uptime": "8.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 514,
-    "timeDay": 472,
-    "timeWeek": 529,
-    "timeMonth": 596,
-    "timeYear": 507,
+    "timeDay": 613,
+    "timeWeek": 537,
+    "timeMonth": 592,
+    "timeYear": 508,
     "dailyMinutesDown": {
-      "2026-03-25": 71,
+      "2026-03-26": 77,
+      "2026-03-25": 1440,
       "2026-03-24": 1440,
       "2026-03-23": 1440,
       "2026-03-22": 1440,
@@ -379,8 +380,7 @@
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
-      "2025-03-27": 1440,
-      "2025-03-26": 1440
+      "2025-03-27": 1440
     }
   }
 ]
