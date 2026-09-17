@@ -4,17 +4,19 @@
     "url": "https://exsules.dev",
     "icon": "https://icons.duckduckgo.com/ip3/exsules.dev.ico",
     "slug": "exsules",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 609,
-    "timeDay": 532,
-    "timeWeek": 609,
-    "timeMonth": 609,
-    "timeYear": 609,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "91.51%",
+    "uptimeDay": "80.01%",
+    "uptimeWeek": "91.51%",
+    "uptimeMonth": "91.51%",
+    "uptimeYear": "91.51%",
+    "time": 626,
+    "timeDay": 585,
+    "timeWeek": 626,
+    "timeMonth": 626,
+    "timeYear": 626,
+    "dailyMinutesDown": {
+      "2026-09-17": 288
+    }
   }
 ]
